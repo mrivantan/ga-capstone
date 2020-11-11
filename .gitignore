@@ -1,6 +1,8 @@
-notebook/datasets/*
-notebook/js/*
-notebook/deployment/*
+notebook/datasets/
+notebook/js/
+notebook/deployment/
+notebook/models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
